@@ -1,0 +1,12 @@
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\obj\Debug\Facebook Desktop App.csprojAssemblyReference.cache
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\obj\Debug\A21_Ex03_IdoAmira_207947250_SaarSkittel_308471473.FormFacebookPage.resources
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\obj\Debug\Facebook_Desktop_App.Properties.Resources.resources
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\obj\Debug\Facebook Desktop App.csproj.GenerateResource.cache
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\obj\Debug\Facebook Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\bin\Debug\Facebook Desktop App.exe
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\bin\Debug\Facebook Desktop App.pdb
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\bin\Debug\Facebook.dll
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\obj\Debug\Facebook Desktop App.csproj.CopyComplete
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\obj\Debug\Facebook Desktop App.exe
+C:\Users\Saar\Desktop\Facebook Desktop App\A21 Ex03 IdoAmira 207947250 SaarSkittel 308471473\obj\Debug\Facebook Desktop App.pdb
